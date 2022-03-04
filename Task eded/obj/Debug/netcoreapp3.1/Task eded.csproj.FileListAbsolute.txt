@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\bin\Debug\netcoreapp3.1\Task eded.exe
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\bin\Debug\netcoreapp3.1\Task eded.deps.json
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\bin\Debug\netcoreapp3.1\Task eded.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\bin\Debug\netcoreapp3.1\Task eded.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\bin\Debug\netcoreapp3.1\Task eded.dll
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\bin\Debug\netcoreapp3.1\Task eded.pdb
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\obj\Debug\netcoreapp3.1\Task eded.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\obj\Debug\netcoreapp3.1\Task eded.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\obj\Debug\netcoreapp3.1\Task eded.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\obj\Debug\netcoreapp3.1\Task eded.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\obj\Debug\netcoreapp3.1\Task eded.dll
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\obj\Debug\netcoreapp3.1\Task eded.pdb
+C:\Users\TOSHIBA\Desktop\C# Intro\Task eded\Task eded\obj\Debug\netcoreapp3.1\Task eded.genruntimeconfig.cache
